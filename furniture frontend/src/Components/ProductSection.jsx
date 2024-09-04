@@ -14,8 +14,8 @@ function ProductSection() {
                 Crafted with excellent material.
               </h2>
               <p className="mb-4">
-                Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet
-                velit. Aliquam vulputate velit imperdiet dolor tempor tristique.{" "}
+              A stylish online furniture store offering a wide range of modern and classic designs to transform any space. Discover high-quality pieces that blend 
+              comfort and elegance, perfect for every room in your home..{" "}
               </p>
               <p>
                 <a href="shop.html" className="btn">
