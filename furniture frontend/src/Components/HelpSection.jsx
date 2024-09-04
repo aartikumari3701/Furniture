@@ -24,16 +24,13 @@ function HelpSection() {
                 We Help You Make Modern Interior Design
               </h2>
               <p>
-                Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio
-                quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam
-                vulputate velit imperdiet dolor tempor tristique. Pellentesque
-                habitant morbi tristique senectus et netus et malesuada
+              Transform your living space with our stylish and contemporary furniture.Our collection is designed to bring comfort and elegance to your home.
               </p>
               <ul className="list-unstyled custom-list my-4">
-                <li>Donec vitae odio quis nisl dapibus malesuada</li>
-                <li>Donec vitae odio quis nisl dapibus malesuada</li>
-                <li>Donec vitae odio quis nisl dapibus malesuada</li>
-                <li>Donec vitae odio quis nisl dapibus malesuada</li>
+                <li>Elegant Designs:Discover a range of furniture that combines modern aesthetics with functionality.</li>
+                <li>Quality Materials:We use only the finest materials to ensure durability and comfort.</li>
+                <li>Affordable Prices:Enjoy premium furniture without breaking the bank.</li>
+                <li>Explore our collection and find the perfect pieces to elevate your home decor.</li>
               </ul>
               <p>
                 <a herf="#" className="btn">

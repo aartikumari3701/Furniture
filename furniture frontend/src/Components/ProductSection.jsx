@@ -14,8 +14,7 @@ function ProductSection() {
                 Crafted with excellent material.
               </h2>
               <p className="mb-4">
-              A stylish online furniture store offering a wide range of modern and classic designs to transform any space. Discover high-quality pieces that blend 
-              comfort and elegance, perfect for every room in your home..{" "}
+              Explore our curated collection of premium chairs,each designed with both style and comfort in mind.From modern to classic, our furniture pieces are crafted with the finest materials to ensure durability and elegance. Whether you’re looking to refresh your living room or add a statement piece to your office, our selection offers something for every taste.{" "}
               </p>
               <p>
                 <a href="shop.html" className="btn">
