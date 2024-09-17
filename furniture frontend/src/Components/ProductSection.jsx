@@ -28,7 +28,7 @@ function ProductSection() {
               one={{
                 productImage: "images/product-1.png",
                 productName: "Nordic Chair",
-                productPrice: "$50.00",
+                productPrice: "Rs.500.00",
               }}
             />
             {/* End Column 2 */}
@@ -37,7 +37,7 @@ function ProductSection() {
               one={{
                 productImage: "images/product-2.png",
                 productName: "Kruzo Aero Chair",
-                productPrice: "$78.00",
+                productPrice: "Rs.780.00",
               }}
             />
             {/* End Column 3 */}
@@ -46,7 +46,7 @@ function ProductSection() {
               one={{
                 productImage: "images/product-3.png",
                 productName: "Ergonomic Chair",
-                productPrice: "$43.00",
+                productPrice: "Rs.4300.00",
               }}
             />
             {/* End Column 4 */}

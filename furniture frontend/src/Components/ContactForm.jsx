@@ -9,10 +9,10 @@ function ContactForm() {
   // }
   // console.log(formData);
   //////////////////////////////////////////////
-  let [formData1, setFromData1] = useState({ firstName: "hello" })
-  let [formData2, setFromData2] = useState({ lastName: "jangid" })
-  let [formData3, setFromData3] = useState({ email: "jangid@gmail.com" })
-  let [formData4, setFromData4] = useState({ message: "jangid hello" })
+  let [formData1, setFromData1] = useState({ firstName: "Aarti" })
+  let [formData2, setFromData2] = useState({ lastName: "Kumari" })
+  let [formData3, setFromData3] = useState({ email: "Aarti@gmail.com" })
+  let [formData4, setFromData4] = useState({ message: "Aarti Kumari" })
   // console.log(formData1["firstName"]);
 
   const handleChange = (e) => {
@@ -69,7 +69,7 @@ function ContactForm() {
                       </div>{" "}
                       {/* /.icon */}
                       <div className="service-contents">
-                        <p>43 Raymouth Rd. Baltemoer, London 3910</p>
+                        <p>Sitapura,Jaipur</p>
                       </div>{" "}
                       {/* /.service-contents*/}
                     </div>{" "}
@@ -95,7 +95,7 @@ function ContactForm() {
                       </div>{" "}
                       {/* /.icon */}
                       <div className="service-contents">
-                        <p>info@yourdomain.com</p>
+                        <p>FurniFusion@gmail.com</p>
                       </div>{" "}
                       {/* /.service-contents*/}
                     </div>{" "}
@@ -124,7 +124,7 @@ function ContactForm() {
                       </div>{" "}
                       {/* /.icon */}
                       <div className="service-contents">
-                        <p>+1 294 3925 3939</p>
+                        <p>+91 8919909254</p>
                       </div>{" "}
                       {/* /.service-contents*/}
                     </div>{" "}

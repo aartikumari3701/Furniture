@@ -2,21 +2,21 @@ import React, { useState } from "react";
 
 const testimonials = [
   {
-    quote: "“Donec facilisis quam ut purus rutrum lobortis...",
-    name: "Maria Jones",
-    position: "CEO, Co-Founder, XYZ Inc.",
-    image: "images/person-1.png",
+    quote: "“FurniFusion transformed my living room! The Nordic Chair is both stylish and comfortable, and it fits perfectly with my modern décor. I highly recommend their products for anyone looking to upgrade their home.",
+    name: "Aarti Kumari",
+    position: "web developer.",
+    image: "images/aarti.jpg",
   },
   {
     quote: "“Another testimonial example...",
-    name: "John Doe",
-    position: "CTO, ABC Corp.",
+    name: "Chiya",
+    position: "web developer.",
     image: "images/person-1.png",
   },
   {
     quote: "“A different testimonial...",
-    name: "Jane Smith",
-    position: "Lead Developer, QRS Ltd.",
+    name: "Rajendra Jangid",
+    position: "Lead Developer, Upflairs Ltd.",
     image: "images/person-1.png",
   },
 ];

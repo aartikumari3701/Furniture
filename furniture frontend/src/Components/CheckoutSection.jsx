@@ -149,7 +149,7 @@ const handlesubmit= async()=>{
                   </div>
                   <div className="col-md-6">
                     <label htmlFor="c_postal_zip" className="text-black">
-                      Posta / Zip <span className="text-danger">*</span>
+                      Pincode / Zip <span className="text-danger">*</span>
                     </label>
                     <input
                     value={formdata["Zip"]}
@@ -457,26 +457,26 @@ const handlesubmit= async()=>{
                           <td>
                             Top Up T-Shirt <strong className="mx-2">x</strong> 1
                           </td>
-                          <td>$250.00</td>
+                          <td>RS250.00</td>
                         </tr>
                         <tr>
                           <td>
                             Polo Shirt <strong className="mx-2">x</strong> 1
                           </td>
-                          <td>$100.00</td>
+                          <td>Rs100.00</td>
                         </tr>
                         <tr>
                           <td className="text-black font-weight-bold">
                             <strong>Cart Subtotal</strong>
                           </td>
-                          <td className="text-black">$350.00</td>
+                          <td className="text-black">Rs350.00</td>
                         </tr>
                         <tr>
                           <td className="text-black font-weight-bold">
                             <strong>Order Total</strong>
                           </td>
                           <td className="text-black font-weight-bold">
-                            <strong>$350.00</strong>
+                            <strong>Rs350.00</strong>
                           </td>
                         </tr>
                       </tbody>

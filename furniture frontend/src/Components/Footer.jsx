@@ -49,14 +49,13 @@ function Footer() {
             <div className="col-lg-4">
               <div className="mb-4 footer-logo-wrap">
                 <a href="#" className="footer-logo">
-                  Furni<span>.</span>
+                  FurniFusion<span>.</span>
                 </a>
               </div>
               <p className="mb-4">
-                Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio
-                quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam
-                vulputate velit imperdiet dolor tempor tristique. Pellentesque
-                habitant
+
+                "Transforming Spaces,Crafting Comfort.
+                At FurniFusion,we believe in blending aesthetics with functionality to create furniture that enriches your everyday life. From minimalist modern designs to luxurious comfort, we have something to suit every style and space.Our products are crafted with quality and sustainability in mind, ensuring that you enjoy beauty and durability in every piece."
               </p>
               <ul className="list-unstyled custom-social">
                 <li>
@@ -150,7 +149,7 @@ function Footer() {
                 <p className="mb-2 text-center text-lg-start">
                   Copyright © . All Rights Reserved. — Designed with love by{" "}
                   <a href="https://untree.co">Untree.co</a> Distributed By{" "}
-                  <a hreff="https://themewagon.com">ThemeWagon</a>
+                  <a hreff="https://themewagon.com">Aarti kumari</a>
                   {/* License information: https://untree.co/license/ */}
                 </p>
               </div>

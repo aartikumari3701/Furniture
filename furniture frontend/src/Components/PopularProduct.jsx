@@ -18,8 +18,7 @@ function PopularProduct() {
                 <div className="pt-3">
                   <h3>Nordic Chair</h3>
                   <p>
-                    Donec facilisis quam ut purus rutrum lobortis. Donec vitae
-                    odio{" "}
+Experience Scandinavian design at its finest with our sleek and comfortable Nordic Chair collection.{" "}
                   </p>
                   <p>
                     <a href="#">Read More</a>
@@ -39,8 +38,7 @@ function PopularProduct() {
                 <div className="pt-3">
                   <h3>Kruzo Aero Chair</h3>
                   <p>
-                    Donec facilisis quam ut purus rutrum lobortis. Donec vitae
-                    odio{" "}
+Lightweight, ergonomic, and stylish — the Kruzo Aero is perfect for both home and office spaces{" "}
                   </p>
                   <p>
                     <a href="#">Read More</a>
@@ -60,8 +58,7 @@ function PopularProduct() {
                 <div className="pt-3">
                   <h3>Ergonomic Chair</h3>
                   <p>
-                    Donec facilisis quam ut purus rutrum lobortis. Donec vitae
-                    odio{" "}
+                  Designed with health and comfort in mind, our ergonomic chairs provide long-lasting support during those long working hours{" "}
                   </p>
                   <p>
                     <a href="#">Read More</a>

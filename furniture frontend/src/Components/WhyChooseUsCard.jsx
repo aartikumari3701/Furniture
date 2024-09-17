@@ -31,11 +31,6 @@ function WhyChooseUsCard() {
             <Sh one ={{icon:"images/bag.svg",title:"Easy to Shop",description:"Donec vitae odio quis nisl dapibus malesuada. Nullam ac iquet velit. Aliquam vulputate"}}/>
             <Sh one ={{icon:"images/support.svg",title:"24/7 Support",description:"Donec vitae odio quis nisl dapibus malesuada. Nullam ac iquet velit. Aliquam vulputate"}}/>
             <Sh one ={{icon:"images/return.svg",title:"Hassle Free Returns",description:"Donec vitae odio quis nisl dapibus malesuada. Nullam ac iquet velit. Aliquam vulputate"}}/>
-           
-            
-           
-            
-            
           
           </div>
         </div>

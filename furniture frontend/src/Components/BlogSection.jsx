@@ -31,10 +31,10 @@ function BlogSection() {
                   </h3>
                   <div className="meta">
                     <span>
-                      by <a href="#">Kristin Watson</a>
+                      by <a href="#">Aarti</a>
                     </span>{" "}
                     <span>
-                      on <a href="#">Dec 19, 2021</a>
+                      on <a href="#">sep 2024</a>
                     </span>
                   </div>
                 </div>
@@ -55,10 +55,10 @@ function BlogSection() {
                   </h3>
                   <div className="meta">
                     <span>
-                      by <a href="#">Robert Fox</a>
+                      by <a href="#">Chiya</a>
                     </span>{" "}
                     <span>
-                      on <a href="#">Dec 15, 2021</a>
+                      on <a href="#">Aug, 2024</a>
                     </span>
                   </div>
                 </div>
@@ -79,10 +79,10 @@ function BlogSection() {
                   </h3>
                   <div className="meta">
                     <span>
-                      by <a href="#">Kristin Watson</a>
+                      by <a href="#">Deepakshi</a>
                     </span>{" "}
                     <span>
-                      on <a href="#">Dec 12, 2021</a>
+                      on <a href="#">Aug, 2024</a>
                     </span>
                   </div>
                 </div>
